@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
+# Youtube Mimic
+A small app that mimics some Youtube functionality in order to practice React and API interaction.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Served on Heroku (please wait 30 seconds for the website to run): https://youtube-mimic.herokuapp.com/
 
-### Getting Started
+### Technologies Used:
+* React
+* Youtube API
+* Bootstrap
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+#### Initializing:
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/julia-xu/youtube-mimic.git
+> cd youtube-mimic
 > npm install
 > npm start
+> go to localhost: 8080
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+#### Credit
+This small application was based off StephenGrider's ReduxSimpleStarter boiler plate and React/Redux course and then expanded upon.
+Click [here](https://github.com/StephenGrider/ReduxSimpleStarter) for the ReduxSimpleStarter boilerplate.
+Click [here] (https://www.udemy.com/react-redux/) for the React/Redux course.
 
-```
-> npm install
-> npm start
-```
+Thank you Stephen Grider!
