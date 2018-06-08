@@ -16,7 +16,7 @@ Served on Heroku (please wait 30 seconds for the website to run): https://youtub
 > npm start
 > go to localhost: 8080
 ```
-Note: There is no API key in this repo. To run this app locally and send API requests, please get an API key from Google Developers > Youtube Data API. Otherwise, click the herokuapp link!
+**Note:** <ins>There is no API key in this repo.</ins> To run this app locally and send API requests, please get an API key from Google Developers > Youtube Data API. Otherwise, click the herokuapp link!
 
 * * *
 
