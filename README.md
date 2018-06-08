@@ -1,7 +1,7 @@
 # Youtube Mimic
 A small app that mimics some Youtube functionality using React & Youtube Data API V3.
 
-Served on Heroku (please wait 30 seconds for the website to run): https://youtube-mimic.herokuapp.com/
+Served on Heroku (please wait 30 seconds for the website to run): [Youtube Mimic on HerokuApp](https://youtube-mimic.herokuapp.com/){:target="_blank"}
 
 ### Technologies Used:
 * React
